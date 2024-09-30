@@ -567,6 +567,7 @@
     background-color:#f0f0f0;
     border: none;
     outline: none;
+    padding: 2rem;
 }
 
 .box #contact .lower .formDiv input[type=email]
@@ -578,6 +579,7 @@
     margin-bottom: 2.2rem;
     background-color: #f0f0f0;
     border: none;
+    padding: 2rem;
     outline: none;
 }
 
@@ -589,10 +591,11 @@
     background-color: #f0f0f0;
     border: none;
     outline: none;
+    
 }
 ::placeholder
 {
-    padding-left: 10px;
+    /* padding-left: 10px; */
     font-size: 1rem;
     font-weight: 500;
 }
